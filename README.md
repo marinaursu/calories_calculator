@@ -1,5 +1,5 @@
-# Calories calculator
 ![CCalc_Badge](/src/docs/badge_cc.svg)
+# Calories calculator
 
 ### Description:
 This project is aimed to get local calories calculator to optimize the diet.

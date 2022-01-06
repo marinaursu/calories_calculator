@@ -12,9 +12,9 @@ This is python script with GUI.
 
 
 ## GUI usage:
-![](/src/docs/calories_gui.png)
+![](/src/docs/calories_gui.PNG)
 
 > If product absent in calories.csv then you can add your product.
 ![](/src/docs/calories_gui_1.PNG)
 
-![](/src/docs/calories_gui_2.png)
+![](/src/docs/calories_gui_2.PNG)

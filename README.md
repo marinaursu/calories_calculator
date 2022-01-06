@@ -16,5 +16,6 @@ This is python script with GUI.
 
 > If product is absent in calories.csv then you can add your product.
 ![](/src/docs/calories_gui_2.PNG)
+
 > Fill the required fields and clicl save button.
 ![](/src/docs/calories_gui_3.PNG)
